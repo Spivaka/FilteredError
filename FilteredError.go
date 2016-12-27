@@ -1,4 +1,4 @@
-package FilteredError
+package filteredError
 
 import "strings"
 
